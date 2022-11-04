@@ -1,4 +1,7 @@
 ## Hello world! Eu sou o Brendon, tenho 18 anos, atualmente estudo pra ser um desenvolvedor full-stack
+- 🔭 Procudando estágio como desenvolvedor front-end
+- 🌱 Estudando React com Typescript
+- 😄 ele/dele
 <div align="center">
   <a href="https://github.com/brendonuehara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendonuehara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
