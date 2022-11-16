@@ -1,4 +1,4 @@
-## Hello world! Eu sou o Brendon, tenho 18 anos, atualmente estudo pra ser um desenvolvedor full-stack
+## Hello world! Tenho 18 anos, e atualmente estou estudando pra ser um desenvolvedor full-stack
 - 🔭 Procurando estágio como desenvolvedor front-end
 - 🌱 Estudando React com Typescript
 
