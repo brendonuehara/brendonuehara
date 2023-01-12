@@ -4,7 +4,7 @@
 
 <div style:"display: flex" align="center">
   <a href="https://github.com/brendonuehara">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendonuehar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendonuehara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonuehara&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 <div style="display: inline_block"><br>
