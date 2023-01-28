@@ -1,4 +1,4 @@
-## Hello world! Tenho 18 anos, e atualmente estudo pra ser um desenvolvedor full-stack
+## 
 - 🔭 Procurando estágio como desenvolvedor front-end
 - 🌱 Estudando React com Typescript
 
