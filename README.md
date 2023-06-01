@@ -1,6 +1,5 @@
 ## 
-- 🔭 Procurando estágio como desenvolvedor front-end
-- 🌱 Estudando React com Typescript
+- 🌱 Estudando NextJS
 
 <div style:"display: flex" align="center">
   <a href="https://github.com/brendonuehara">
