@@ -13,6 +13,7 @@
   <img align="center" alt="Brendon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brendon-NodeJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+  <img align="center" alt="Brendon-NextJS" height="30" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/48/e9/0d/48e90d2d6289ae6bf0dc2cb083880126.jpg">
 </div>
 
